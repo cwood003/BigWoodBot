@@ -1,0 +1,17 @@
+
+credentials.py
+test.json
+test2.json
+Test.py
+Procfile
+
+.idea/.gitignore
+.idea/TwitterBot.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/rSettings.xml
+.idea/vcs.xml
+__pycache__/
+
+venv
